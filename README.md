@@ -17,3 +17,11 @@ pnpm dev
 ```
 
 Abra [http://localhost:3000](http://localhost:3000) e no seu browser exibirá o resultado.
+
+## Resumo do Jogo
+
+Um usuário(apresentador) deve selecionar a quantidade de portas que terá no jogo, e qual será a porta que possuirá o presente, assim iniciando o jogo. Um segundo usuário tentará adivinhar qual a porta que está com o presente, se o mesmo acertar ganha o jogo.
+
+<p align="center">
+  <img width="633" src="src/assets/readme/monty-hall.png">
+</p>
